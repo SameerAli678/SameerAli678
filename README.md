@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi 👋, I'm Sameer Ali<br>
+Hi 👋, I'm Sameer Ali
+<br>
 
 
 ## 🌐 Socials:
