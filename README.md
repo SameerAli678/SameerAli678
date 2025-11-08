@@ -1,4 +1,4 @@
-# Hi 👋, I'm Sameer Ali
+# Hi 👋, I'm Sameer Ali Front End Developer
 <br>
 
 
